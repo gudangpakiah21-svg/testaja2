@@ -8045,3 +8045,4 @@
 202.27.229.7,443,AU,Exetel Pty Ltd
 77.73.132.242,443,NL,Timeweb
 38.180.246.235,443,DE,Leaseweb Deutschland GmbH
+38.244.129.112,443,DE,Leaseweb Deutschland GmbH
